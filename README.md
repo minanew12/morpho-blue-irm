@@ -17,8 +17,6 @@ All audits are stored in the [audits](audits)' folder.
 
 Install dependencies: `yarn`
 
-Run tests: `yarn test:forge`
-
 ## Licenses
 
 The primary license is MIT, see [LICENSE](LICENSE).
